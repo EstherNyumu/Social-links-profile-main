@@ -10,7 +10,7 @@ body{
     margin: auto;
     max-width: 320px;
     text-align: center;
-    height: 500px;
+    max-height: 800px;
     border-radius: 10px;
 }
 img{
